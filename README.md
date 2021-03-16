@@ -1,6 +1,7 @@
-- 💻 calamityyy / lua & css programmer / VSCode
-- 🔭 My current project is BDSnips (github.com/calamitiess/BDSnips).
-- 📫 Contact me @ calamityyy#3571 or @JinsXVI on twitter.
+### 💻 calamityyy
+- 🔭 My current project is BDSnips. (github.com/calamitiess/BDSnips)
+- 📫 How to reach me: calamityyy#3571 on discord or @calamityyys on twitter.
+- 🌱 Programming languages: Lua & CSS.
 <!--
 
 
