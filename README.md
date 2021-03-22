@@ -18,7 +18,7 @@
 
 # Organizational Repos
 - [Wildberry - Codeblock Theme](https://github.com/DiscordAddons/Wildberry-Codeblock-Theme) - `Public`
-- [Frosted Glass - Codeblock Theme](https://github.com/DiscordAddons/Frosted-Glass-Codeblock-Theme) - `Private` [will be released later today]
+- [Frosted Glass - Codeblock Theme](https://github.com/DiscordAddons/Frosted-Glass-Codeblock-Theme) - `Public, released.`
 - [Chroma Syntax Highlighting](https://github.com/DiscordAddons/Chroma-Syntax-Highlighting) - `Public`
 - [Light Codeblocks](https://github.com/DiscordAddons/Light-Codeblocks) - `Public`
 - [Blur Member List](https://github.com/DiscordAddons/BlurMemberList) - `Public`
