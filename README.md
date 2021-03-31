@@ -13,7 +13,7 @@ Organizations
 
 Repos
 ------------
-Most of my repos are on my primary [organization](https:/github.com/Vacudons) where I upload snippets, others will most likely be on my secondary [organization](https://github.com/Discord-Appearances) where I upload themes, don't count on me to make a theme everyday as these take time and effort.
+Most of my repos are on my [primary organization](https:/github.com/Vacudons) where I upload snippets, others will most likely be on my [secondary organization](https://github.com/Discord-Appearances) where I upload themes, don't count on me to make a theme everyday as these take time and effort.
 
 <!--
 Here are some ideas to get you started:
