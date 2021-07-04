@@ -3,7 +3,7 @@
 - 🖥️ Theme developer with 3+ months of experience and semi Lua programmer. And that's about all.
 
 **My themes**
-- I usually make themes for Discord and sometimes release them for people to use, here's a list of all of my released or discontinued themes:
+- 🎨 I usually make themes for Discord and sometimes release them for people to use, here's a list of all of my released or discontinued themes:
   - [ComfyPink](https://github.com/rysworldd/ComfyPink)
   - [Synthcord Frame](https://github.com/ryswrldd/synthcord-frame)
   - [Synthcord '84](https://github.com/ryswrldd/themes-archive/tree/main/synthcord-84)
