@@ -10,6 +10,12 @@
   - [Hyprisms](https://github.com/ryswrldd/themes-archive/tree/main/hyprisms)
   - [Cyancord](https://github.com/ryswrldd/themes-archive/tree/main/cyancord)
 
+**My scripts**
+- I sometimes make scripts for some Roblox games, here's a list of all of my released scripts:
+  - [KAT Adjustable Ammo Capacity](https://github.com/ryswrldd/kat-adjustable-ammo-capacity)
+  - [No Dash Cooldown (Anime Dimensions)](https://github.com/ryswrldd/no-dash-cooldown)
+  - [Autofarm Scripts](https://github.com/ryswrldd/autofarm-scripts)
+
 **My stats**
 
 ![](https://komarev.com/ghpvc/?username=ryonnn)
