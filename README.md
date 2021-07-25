@@ -1,47 +1,22 @@
-**who am i?**
-- i'm *copywheel*.
+<h1>☁ akatsuki</h1>
+<details><summary>socials. 🐦</summary>
+  <li><a href="https://github.com/copymelee">organization.</a></li>
+  <li><a href="https://copywheel.carrd.co">carrd profile.</a></li>
+  <li><a href="https://twitter.com/copywheeI">twitter.</a></li>
+  <li><a href="https://www.youtube.com/channel/UChsGFqFjxsOyB5MvH3em4cw">youtube.</a></li>
+</details>
 
-**what i do**
-- I waste my time by making discord themes.
-
-<details>
-<summary><strong>my statistics.</strong></summary>
+<details><summary>profile stats. 📊</summary>
 
 ![](https://komarev.com/ghpvc/?username=ryonnn)
   
-[![copywheeI’s top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=copywheeI&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![my top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=copywheeI&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![copywheeI’s statistics.](https://github-readme-stats.vercel.app/api?username=copywheeI&show_icons=true&theme=radical&hide_border=true)
+![my profile stats.](https://github-readme-stats.vercel.app/api?username=copywheeI&show_icons=true&theme=radical&hide_border=true)
 </details>
 
-<!-- e | e
-https://github.com/rysworldd
+<!-- content | content
 
-https://rysworld.carrd.co
-
-https://twitter.com/rysworldd
-
-https://www.youtube.com/channel/UChsGFqFjxsOyB5MvH3em4cw
-<h1>Rysworldd 🥀</h1>
-<details><summary>Social Links</summary>
-  <li><a href="https://github.com/rysworldd">Organization</a></li>
-  <li><a href="https://rysworld.carrd.co">Carrd Profile</a></li>
-  <li><a href="https://twitter.com/rysworldd">Twitter</a></li>
-  <li><a href="https://www.youtube.com/channel/UChsGFqFjxsOyB5MvH3em4cw">YouTube</a></li>
-</details>
-
-<details><summary>My Themes</summary>
-  <li><a href="https://github.com/rysworldd/ComfyPink">ComfyPink</a></li>
-</details>
-
-<details><summary>Profile Stats</summary>
-
-![](https://komarev.com/ghpvc/?username=ryonnn)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryswrldd&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Ry's Stats](https://github-readme-stats.vercel.app/api?username=ryswrldd&show_icons=true&theme=radical&hide_border=true)
-</details>
 <!--
 ![image](https://media.discordapp.net/attachments/821426277709774881/828083264178487346/github.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828086206969020486/twitter.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828100070868123698/discord.png) |
 ------------ | ------------ | ------------
